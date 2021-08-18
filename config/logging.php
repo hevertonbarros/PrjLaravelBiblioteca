@@ -58,8 +58,8 @@ return [
             'handler' => Monolog\Handler\TelegramBotHandler::class,
             'level' => 'emergency',
             'with' => [
-                'channel' => '-1001580781065',
-                'apiKey' => '1954504723:AAGuDdHybGNWAUqLKLlWE4UuIyY30IVacK4'
+                'channel' => '',
+                'apiKey' => ''
             ]
         ],
 
